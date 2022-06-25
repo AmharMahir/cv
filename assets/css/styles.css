@@ -1292,4 +1292,7 @@ img {
   .contact__inputs{
     grid-template-columns: repeat(2, 1fr);
   }
+  .swiper-container .swiper-pagination-testimonial {
+    bottom: 0;
+}
 }
